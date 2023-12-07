@@ -1,0 +1,11 @@
+{
+  "generator-extension": {
+    "ext_application": {
+      "RickMortyChars": [
+        "shopping",
+        "myaccount",
+        "checkout"
+      ]
+    }
+  }
+}

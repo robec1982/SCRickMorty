@@ -1,0 +1,13 @@
+{
+    "type": "object",
+    "properties": { 
+        "rickmortyModule.config": {
+            "group": "extensions",
+            "subtab": "rickmortyModule_subtab",
+            "type": "string",
+            "title": "rickmortyModule_Title",
+            "description": "Config description example",
+            "default": "Default config example"
+        }
+    }
+}
